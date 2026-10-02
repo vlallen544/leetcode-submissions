@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-11-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-12-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -18,6 +18,7 @@
 | 167 | [Two Sum Ii Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) | `Medium` | — |
 | 203 | [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) | `Easy` | — |
 | 206 | [Reverse Linked List](Easy/0206-reverse-linked-list/) | `Easy` | — |
+| 237 | [Delete Node In A Linked List](Medium/0237-delete-node-in-a-linked-list/) | `Medium` | — |
 | 283 | [Move Zeroes](Easy/0283-move-zeroes/) | `Easy` | — |
 | 344 | [Reverse String](Easy/0344-reverse-string/) | `Easy` | — |
 | 876 | [Middle Of The Linked List](Easy/0876-middle-of-the-linked-list/) | `Easy` | — |
