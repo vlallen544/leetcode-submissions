@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-17-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-18-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -26,6 +26,7 @@
 | 237 | [Delete Node In A Linked List](Medium/0237-delete-node-in-a-linked-list/) | `Medium` | — |
 | 283 | [Move Zeroes](Easy/0283-move-zeroes/) | `Easy` | — |
 | 344 | [Reverse String](Easy/0344-reverse-string/) | `Easy` | — |
+| 682 | [Baseball Game](Easy/0682-baseball-game/) | `Easy` | — |
 | 876 | [Middle Of The Linked List](Easy/0876-middle-of-the-linked-list/) | `Easy` | — |
 | 977 | [Squares Of A Sorted Array](Easy/0977-squares-of-a-sorted-array/) | `Easy` | — |
 
