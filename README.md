@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-16-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-17-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -13,6 +13,7 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](Easy/0001-two-sum/) | `Easy` | — |
 | 19 | [Remove Nth Node From End Of List](Medium/0019-remove-nth-node-from-end-of-list/) | `Medium` | — |
+| 20 | [Valid Parentheses](Easy/0020-valid-parentheses/) | `Easy` | — |
 | 21 | [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) | `Easy` | — |
 | 26 | [Remove Duplicates From Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) | `Easy` | — |
 | 27 | [Remove Element](Easy/0027-remove-element/) | `Easy` | — |
