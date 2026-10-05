@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-18-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-19-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -29,6 +29,7 @@
 | 682 | [Baseball Game](Easy/0682-baseball-game/) | `Easy` | — |
 | 876 | [Middle Of The Linked List](Easy/0876-middle-of-the-linked-list/) | `Easy` | — |
 | 977 | [Squares Of A Sorted Array](Easy/0977-squares-of-a-sorted-array/) | `Easy` | — |
+| 1475 | [Final Prices With A Special Discount In A Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | `Easy` | — |
 
 ---
 
