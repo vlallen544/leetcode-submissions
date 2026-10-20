@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-27-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-28-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -18,6 +18,7 @@
 | 26 | [Remove Duplicates From Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) | `Easy` | — |
 | 27 | [Remove Element](Easy/0027-remove-element/) | `Easy` | — |
 | 83 | [Remove Duplicates From Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) | `Easy` | — |
+| 136 | [Single Number](Easy/0136-single-number/) | `Easy` | — |
 | 141 | [Linked List Cycle](Easy/0141-linked-list-cycle/) | `Easy` | — |
 | 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | — |
 | 155 | [Min Stack](Medium/0155-min-stack/) | `Medium` | — |
