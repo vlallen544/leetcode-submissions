@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-28-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-29-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -34,6 +34,7 @@
 | 739 | [Daily Temperatures](Medium/0739-daily-temperatures/) | `Medium` | — |
 | 844 | [Backspace String Compare](Easy/0844-backspace-string-compare/) | `Easy` | — |
 | 876 | [Middle Of The Linked List](Easy/0876-middle-of-the-linked-list/) | `Easy` | — |
+| 901 | [Online Stock Span](Medium/0901-online-stock-span/) | `Medium` | — |
 | 977 | [Squares Of A Sorted Array](Easy/0977-squares-of-a-sorted-array/) | `Easy` | — |
 | 1047 | [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) | `Easy` | — |
 | 1209 | [Remove All Adjacent Duplicates In String Ii](Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | `Medium` | — |
