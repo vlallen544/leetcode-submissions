@@ -12,9 +12,6 @@ typedef struct {
 
 StockSpanner* stockSpannerCreate() {
     StockSpanner* obj = malloc(sizeof(StockSpanner));
-    if(obj == NULL){
-        return NULL;
-    }
     obj->top = -1;
     return obj;
 }
