@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-38-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-40-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -18,9 +18,11 @@
 | 21 | [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) | `Easy` | — |
 | 26 | [Remove Duplicates From Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) | `Easy` | — |
 | 27 | [Remove Element](Easy/0027-remove-element/) | `Easy` | — |
+| 53 | [Maximum Subarray](Medium/0053-maximum-subarray/) | `Medium` | — |
 | 83 | [Remove Duplicates From Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) | `Easy` | — |
 | 136 | [Single Number](Easy/0136-single-number/) | `Easy` | — |
 | 141 | [Linked List Cycle](Easy/0141-linked-list-cycle/) | `Easy` | — |
+| 142 | [Linked List Cycle Ii](Medium/0142-linked-list-cycle-ii/) | `Medium` | — |
 | 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | — |
 | 155 | [Min Stack](Medium/0155-min-stack/) | `Medium` | — |
 | 167 | [Two Sum Ii Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) | `Medium` | — |
