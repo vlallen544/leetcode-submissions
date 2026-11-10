@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-42-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-43-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -52,6 +52,7 @@
 | 1475 | [Final Prices With A Special Discount In A Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | `Easy` | — |
 | 1480 | [Running Sum Of 1d Array](Easy/1480-running-sum-of-1d-array/) | `Easy` | — |
 | 1700 | [Number Of Students Unable To Eat Lunch](Easy/1700-number-of-students-unable-to-eat-lunch/) | `Easy` | — |
+| 1748 | [Sum Of Unique Elements](Easy/1748-sum-of-unique-elements/) | `Easy` | — |
 | 2235 | [Add Two Integers](Easy/2235-add-two-integers/) | `Easy` | — |
 
 ---
