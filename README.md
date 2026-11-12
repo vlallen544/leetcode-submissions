@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-45-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-46-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -50,6 +50,7 @@
 | 1047 | [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) | `Easy` | — |
 | 1051 | [Height Checker](Easy/1051-height-checker/) | `Easy` | — |
 | 1209 | [Remove All Adjacent Duplicates In String Ii](Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | `Medium` | — |
+| 1464 | [Maximum Product Of Two Elements In An Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) | `Easy` | — |
 | 1475 | [Final Prices With A Special Discount In A Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | `Easy` | — |
 | 1480 | [Running Sum Of 1d Array](Easy/1480-running-sum-of-1d-array/) | `Easy` | — |
 | 1700 | [Number Of Students Unable To Eat Lunch](Easy/1700-number-of-students-unable-to-eat-lunch/) | `Easy` | — |
