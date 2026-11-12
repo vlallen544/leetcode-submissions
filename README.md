@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-44-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-45-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -55,6 +55,7 @@
 | 1700 | [Number Of Students Unable To Eat Lunch](Easy/1700-number-of-students-unable-to-eat-lunch/) | `Easy` | — |
 | 1748 | [Sum Of Unique Elements](Easy/1748-sum-of-unique-elements/) | `Easy` | — |
 | 2235 | [Add Two Integers](Easy/2235-add-two-integers/) | `Easy` | — |
+| 3701 | [Compute Alternating Sum](Easy/3701-compute-alternating-sum/) | `Easy` | — |
 
 ---
 
