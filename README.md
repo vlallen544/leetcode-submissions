@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-52-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-53-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -41,6 +41,7 @@
 | 496 | [Next Greater Element I](Easy/0496-next-greater-element-i/) | `Easy` | — |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | — |
 | 622 | [Design Circular Queue](Medium/0622-design-circular-queue/) | `Medium` | — |
+| 628 | [Maximum Product Of Three Numbers](Easy/0628-maximum-product-of-three-numbers/) | `Easy` | — |
 | 649 | [Dota2 Senate](Medium/0649-dota2-senate/) | `Medium` | — |
 | 682 | [Baseball Game](Easy/0682-baseball-game/) | `Easy` | — |
 | 735 | [Asteroid Collision](Medium/0735-asteroid-collision/) | `Medium` | — |
