@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-58-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-59-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -41,6 +41,7 @@
 | 342 | [Power Of Four](Easy/0342-power-of-four/) | `Easy` | — |
 | 344 | [Reverse String](Easy/0344-reverse-string/) | `Easy` | — |
 | 349 | [Intersection Of Two Arrays](Easy/0349-intersection-of-two-arrays/) | `Easy` | — |
+| 392 | [Is Subsequence](Easy/0392-is-subsequence/) | `Easy` | — |
 | 414 | [Third Maximum Number](Easy/0414-third-maximum-number/) | `Easy` | — |
 | 496 | [Next Greater Element I](Easy/0496-next-greater-element-i/) | `Easy` | — |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | — |
