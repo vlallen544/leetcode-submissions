@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-57-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-58-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -51,6 +51,7 @@
 | 735 | [Asteroid Collision](Medium/0735-asteroid-collision/) | `Medium` | — |
 | 739 | [Daily Temperatures](Medium/0739-daily-temperatures/) | `Medium` | — |
 | 746 | [Min Cost Climbing Stairs](Easy/0746-min-cost-climbing-stairs/) | `Easy` | — |
+| 796 | [Rotate String](Easy/0796-rotate-string/) | `Easy` | — |
 | 844 | [Backspace String Compare](Easy/0844-backspace-string-compare/) | `Easy` | — |
 | 876 | [Middle Of The Linked List](Easy/0876-middle-of-the-linked-list/) | `Easy` | — |
 | 901 | [Online Stock Span](Medium/0901-online-stock-span/) | `Medium` | — |
