@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-62-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-63-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -28,6 +28,7 @@
 | 142 | [Linked List Cycle Ii](Medium/0142-linked-list-cycle-ii/) | `Medium` | — |
 | 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | — |
 | 155 | [Min Stack](Medium/0155-min-stack/) | `Medium` | — |
+| 160 | [Intersection Of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) | `Easy` | — |
 | 167 | [Two Sum Ii Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) | `Medium` | — |
 | 203 | [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) | `Easy` | — |
 | 206 | [Reverse Linked List](Easy/0206-reverse-linked-list/) | `Easy` | — |
