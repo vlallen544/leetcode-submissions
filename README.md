@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-68-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-69-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -49,6 +49,7 @@
 | 349 | [Intersection Of Two Arrays](Easy/0349-intersection-of-two-arrays/) | `Easy` | — |
 | 392 | [Is Subsequence](Easy/0392-is-subsequence/) | `Easy` | — |
 | 414 | [Third Maximum Number](Easy/0414-third-maximum-number/) | `Easy` | — |
+| 448 | [Find All Numbers Disappeared In An Array](Easy/0448-find-all-numbers-disappeared-in-an-array/) | `Easy` | — |
 | 485 | [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) | `Easy` | — |
 | 496 | [Next Greater Element I](Easy/0496-next-greater-element-i/) | `Easy` | — |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | — |
