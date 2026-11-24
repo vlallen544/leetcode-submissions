@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-64-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-65-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -16,6 +16,7 @@
 | 19 | [Remove Nth Node From End Of List](Medium/0019-remove-nth-node-from-end-of-list/) | `Medium` | — |
 | 20 | [Valid Parentheses](Easy/0020-valid-parentheses/) | `Easy` | — |
 | 21 | [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) | `Easy` | — |
+| 24 | [Swap Nodes In Pairs](Medium/0024-swap-nodes-in-pairs/) | `Medium` | — |
 | 26 | [Remove Duplicates From Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) | `Easy` | — |
 | 27 | [Remove Element](Easy/0027-remove-element/) | `Easy` | — |
 | 53 | [Maximum Subarray](Medium/0053-maximum-subarray/) | `Medium` | — |
