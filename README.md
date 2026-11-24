@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-65-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-66-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -25,6 +25,7 @@
 | 83 | [Remove Duplicates From Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) | `Easy` | — |
 | 88 | [Merge Sorted Array](Easy/0088-merge-sorted-array/) | `Easy` | — |
 | 92 | [Reverse Linked List Ii](Medium/0092-reverse-linked-list-ii/) | `Medium` | — |
+| 121 | [Best Time To Buy And Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) | `Easy` | — |
 | 136 | [Single Number](Easy/0136-single-number/) | `Easy` | — |
 | 141 | [Linked List Cycle](Easy/0141-linked-list-cycle/) | `Easy` | — |
 | 142 | [Linked List Cycle Ii](Medium/0142-linked-list-cycle-ii/) | `Medium` | — |
