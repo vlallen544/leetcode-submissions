@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-71-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-72-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -48,6 +48,7 @@
 | 344 | [Reverse String](Easy/0344-reverse-string/) | `Easy` | — |
 | 345 | [Reverse Vowels Of A String](Easy/0345-reverse-vowels-of-a-string/) | `Easy` | — |
 | 349 | [Intersection Of Two Arrays](Easy/0349-intersection-of-two-arrays/) | `Easy` | — |
+| 367 | [Valid Perfect Square](Easy/0367-valid-perfect-square/) | `Easy` | — |
 | 392 | [Is Subsequence](Easy/0392-is-subsequence/) | `Easy` | — |
 | 414 | [Third Maximum Number](Easy/0414-third-maximum-number/) | `Easy` | — |
 | 448 | [Find All Numbers Disappeared In An Array](Easy/0448-find-all-numbers-disappeared-in-an-array/) | `Easy` | — |
