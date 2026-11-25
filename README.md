@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-72-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-73-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -61,6 +61,7 @@
 | 643 | [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) | `Easy` | — |
 | 649 | [Dota2 Senate](Medium/0649-dota2-senate/) | `Medium` | — |
 | 682 | [Baseball Game](Easy/0682-baseball-game/) | `Easy` | — |
+| 704 | [Binary Search](Easy/0704-binary-search/) | `Easy` | — |
 | 735 | [Asteroid Collision](Medium/0735-asteroid-collision/) | `Medium` | — |
 | 739 | [Daily Temperatures](Medium/0739-daily-temperatures/) | `Medium` | — |
 | 746 | [Min Cost Climbing Stairs](Easy/0746-min-cost-climbing-stairs/) | `Easy` | — |
