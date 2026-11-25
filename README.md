@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-70-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-71-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -56,6 +56,7 @@
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | — |
 | 622 | [Design Circular Queue](Medium/0622-design-circular-queue/) | `Medium` | — |
 | 628 | [Maximum Product Of Three Numbers](Easy/0628-maximum-product-of-three-numbers/) | `Easy` | — |
+| 633 | [Sum Of Square Numbers](Medium/0633-sum-of-square-numbers/) | `Medium` | — |
 | 643 | [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) | `Easy` | — |
 | 649 | [Dota2 Senate](Medium/0649-dota2-senate/) | `Medium` | — |
 | 682 | [Baseball Game](Easy/0682-baseball-game/) | `Easy` | — |
