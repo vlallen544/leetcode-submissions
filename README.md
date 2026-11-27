@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vlallen544/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-74-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-75-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -21,6 +21,7 @@
 | 27 | [Remove Element](Easy/0027-remove-element/) | `Easy` | — |
 | 35 | [Search Insert Position](Easy/0035-search-insert-position/) | `Easy` | — |
 | 53 | [Maximum Subarray](Medium/0053-maximum-subarray/) | `Medium` | — |
+| 69 | [Sqrtx](Easy/0069-sqrtx/) | `Easy` | — |
 | 70 | [Climbing Stairs](Easy/0070-climbing-stairs/) | `Easy` | — |
 | 75 | [Sort Colors](Medium/0075-sort-colors/) | `Medium` | — |
 | 83 | [Remove Duplicates From Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) | `Easy` | — |
